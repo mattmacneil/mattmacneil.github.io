@@ -6,9 +6,5 @@
 	
 		<h1>Hello.</h1>
 
-		<br />
-
-		<?php echo "Testing."; ?>
-
 	</body>
 </html>
